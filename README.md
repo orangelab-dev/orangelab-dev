@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 📖 Guangdong University of Technology, Class of 2028, Undergraduate majoring Computer Science and Technology.
+
 🧑‍💻 Full-Stack Developer | ACMer | AI Agent Enthusiast
 
 ### 🛠️ Tech Stack
