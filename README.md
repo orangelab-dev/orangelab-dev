@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-
-#### 🧑‍💻 Full-Stack Developer | ACMer | AI Agent Enthusiast
+📖 Guangdong University of Technology, Class of 2028, Undergraduate majoring Computer Science and Technology.
+🧑‍💻 Full-Stack Developer | ACMer | AI Agent Enthusiast
 
 ### 🛠️ Tech Stack
 - Languages: Golang , Java , C , C++ , JavaScript , TypeScript
