@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **orangelgj/orangelgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+### 🧑‍💻 Full-Stack Developer | ACMer | AI Agent Enthusiast
+
+## 🛠️ Tech Stack
+- Languages: Golang , Java , C , C++ , JavaScript , TypeScript
+
+- Frontend: Vue 3, Vite
+
+- Middleware: Redis, Kafka, MySQL, Nginx
+
+- AI & Tools: Model Context Protocol (MCP), Eino Framework, RAG, macOS (M4)
+
+## 📫 Reach Me
+Email: orange2006@foxmail.com
+
+Blog: orange2006.online
