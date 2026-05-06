@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 🧑‍💻 AI Agent & Full-Stack Developer | ACMer
 
+🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
+
 ### 🛠️ Tech Stack
 - Languages: Golang , Java , C , C++ , JavaScript , TypeScript
 
