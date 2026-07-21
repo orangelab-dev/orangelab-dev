@@ -1,36 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**orangelgj/orangelgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student majoring in Computer Science and Technology at Guangdong University of Technology, Class of 2028.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About me
-📖 Guangdong University of Technology, Class of 2028, Undergraduate majoring Computer Science and Technology.
-
-🧑‍💻 AI Agent & Full-Stack Developer | ACMer
-
+🧑‍💻 AI Agent & Go Backend Developer
 🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
 
+### 🌱 Currently Exploring
+
+* AI Agents and developer tools
+* Coding Agents and browser automation
+* Agent evaluation, tool calling and memory
+* Go backend engineering
+
 ### 🛠️ Tech Stack
-- Languages: Golang , Java , C , C++ , JavaScript , TypeScript
 
-- Frontend: Vue 3, Vite
-
-- Middleware: Redis, Kafka, MySQL, Nginx
-
-- AI & Tools: Model Context Protocol (MCP), Eino Framework, RAG, macOS (M4)
+* **Languages:** Go, Python, Java, C++, JavaScript, TypeScript
+* **Backend:** Spring Boot, MySQL, Redis, Kafka, Nginx
+* **AI Agent:** MCP, RAG, Tool Calling, Multi-Agent Systems
+* **Frontend:** Vue 3, Vite
+* **Tools:** Git, Docker, Linux
 
 ### 📫 Reach Me
-Email: orange2006@foxmail.com
 
-
+Email: [orange2006@foxmail.com](mailto:orange2006@foxmail.com)
