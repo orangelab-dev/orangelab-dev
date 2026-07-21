@@ -3,6 +3,7 @@
 I'm an undergraduate student majoring in Computer Science and Technology at Guangdong University of Technology, Class of 2028.
 
 🧑‍💻 AI Agent & Go Backend Developer
+
 🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
 
 ### 🌱 Currently Exploring
