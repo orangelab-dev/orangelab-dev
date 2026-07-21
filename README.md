@@ -16,9 +16,10 @@ I'm an undergraduate student majoring in Computer Science and Technology at Guan
 
 * **Languages:** Go, Python, Java, C++, JavaScript, TypeScript
 * **Backend:** Spring Boot, MySQL, Redis, Kafka, Nginx
-* **AI Agent:** MCP, RAG, Tool Calling, Multi-Agent Systems
+* **AI Agent:** MCP, RAG, Tool Calling, Multi-Agent Systems, Browser Automation, Agent Evaluation
 * **Frontend:** Vue 3, Vite
 * **Tools:** Git, Docker, Linux
+
 
 ### 📫 Reach Me
 
