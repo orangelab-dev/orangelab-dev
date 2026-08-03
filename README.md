@@ -4,6 +4,8 @@ I'm an undergraduate student majoring in Computer Science and Technology at Guan
 
 🧑‍💻 AI Agent & Go Backend Developer
 
+💼 Currently interning at Tencent WeCom, working on AI Agents, browser automation, and Agent evaluation.
+
 🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
 
 ### 🌱 Currently Exploring
