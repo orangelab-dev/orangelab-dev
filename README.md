@@ -2,11 +2,15 @@
 
 I'm an undergraduate student majoring in Computer Science and Technology at Guangdong University of Technology, Class of 2028.
 
-🧑‍💻 AI Agent & Go Backend Developer
+🧑‍💻 AI Agent & Full-Stack Developer
 
-💼 Currently interning at Tencent WeCom, working on AI Agents, browser automation, and Agent evaluation.
 
 🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
+## Experience
+
+* **AI Agent Engineering Intern** @ [Tencent WXG](https://www.tencent.com/zh-cn/who-we-are/) · 2026 — Agent evaluation, tool/skill design, and browser automation for WeCom
+* **Backend Engineering Intern** · 2026 — Backend development for a B2B system, focused on permission and service-side infrastructure
+
 
 ### 🌱 Currently Exploring
 
