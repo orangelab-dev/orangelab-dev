@@ -4,7 +4,6 @@ I'm an undergraduate student majoring in Computer Science and Technology at Guan
 
 🧑‍💻 AI Agent & Full-Stack Developer
 
-
 🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
 ## Experience
 
@@ -12,20 +11,6 @@ I'm an undergraduate student majoring in Computer Science and Technology at Guan
 * **Backend Engineering Intern** · 2026 — Backend development for a B2B system, focused on permission and service-side infrastructure
 
 
-### 🌱 Currently Exploring
-
-* AI Agents and developer tools
-* Coding Agents and browser automation
-* Agent evaluation, tool calling and memory
-* Go backend engineering
-
-### 🛠️ Tech Stack
-
-* **Languages:** Go, Python, Java, C++, JavaScript, TypeScript
-* **Backend:** Spring Boot, MySQL, Redis, Kafka, Nginx
-* **AI Agent:** MCP, RAG, Tool Calling, Multi-Agent Systems, Browser Automation, Agent Evaluation
-* **Frontend:** Vue 3, Vite
-* **Tools:** Git, Docker, Linux
 
 
 ### 📫 Reach Me
