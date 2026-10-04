@@ -5,7 +5,7 @@ I'm a Computer Science undergraduate, Class of 2028.
 🧑‍💻 **Backend & AI Agent Developer**
 
 🏆 **ACM / Competitive Programming**  
-🥉 ICPC 2026 Xi'an Invitational Contest Bronze Medal
+- 🥉 ICPC 2026 Xi'an Invitational Contest Bronze Medal
 
 ## Experience
 
