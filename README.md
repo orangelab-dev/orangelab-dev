@@ -1,17 +1,21 @@
 # Hi there 👋
 
-I'm an undergraduate student majoring in Computer Science and Technology at Guangdong University of Technology, Class of 2028.
+I'm a Computer Science undergraduate, Class of 2028.
 
-🧑‍💻 AI Agent & Full-Stack Developer
+🧑‍💻 **Backend & AI Agent Developer**
 
-🏆 ICPC 2026 Xi'an Invitational Contest Bronze Medal
+🏆 **ACM / Competitive Programming**  
+🥉 ICPC 2026 Xi'an Invitational Contest Bronze Medal
+
 ## Experience
 
-* **AI Agent Engineering Intern** @ [Tencent WXG](https://www.tencent.com/zh-cn/who-we-are/) · 2026 — Agent evaluation, tool/skill design, and browser automation for WeCom
-* **Backend Engineering Intern** · 2026 — Backend development for a B2B system, focused on permission and service-side infrastructure
+* **Backend Engineering Intern** @ [Tencent WXG](https://www.tencent.com/zh-cn/who-we-are/) · 2026 — Backend development and AI Agent engineering
+* **AI Agent Engineering Intern** @ [Tencent WXG](https://www.tencent.com/zh-cn/who-we-are/) · 2026 — Agent evaluation, tool/skill design, and automation for WeCom
+* **Backend Engineering Intern** · 2026 — B2B backend development and workflow automation
 
+## Interests
 
-
+`Backend Systems` · `AI Agents` · `LLM` · `Distributed Systems` · `Competitive Programming`
 
 ### 📫 Reach Me
 
