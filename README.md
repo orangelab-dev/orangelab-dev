@@ -19,4 +19,7 @@ I'm a Computer Science undergraduate, Class of 2028.
 
 ### 📫 Reach Me
 
-Email: [orange2006@foxmail.com](mailto:orange2006@foxmail.com)
+I’m more active on QQ — feel free to connect with me! 😊
+
+- **QQ:** `1140626709`
+- **Email:** [orange2006@foxmail.com](mailto:orange2006@foxmail.com)
